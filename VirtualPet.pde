@@ -1,7 +1,7 @@
 void setup()
 {
 size(1200,800);
-background(71, 143, 44);
+background(181, 180, 177);
 }
 
 void draw()
@@ -34,6 +34,5 @@ ellipse (565, 260, 10, 10);
 ellipse (635, 260, 10, 10);
 //nose
 fill(0,0,0);
-ellipse(596, 300, 20, 20);
-ellipse(604, 300, 20, 20);
+ellipse(600, 300, 30, 20);
 }
